@@ -11,8 +11,8 @@ function buildConfig(argv) {
         'cert': argv.cert,
     }, 
     'spotify': {
-        'clientId': '809f6c622c654a128528a2fc2763d4a6',
-        'clientSecret': '3fbc0ff594784187915ccb648937c293'
+        'clientId': 'test',
+        'clientSecret': 'test'
     }
     };
 
